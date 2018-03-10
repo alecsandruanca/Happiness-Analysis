@@ -10,4 +10,14 @@ The Principal Component Analysis tell us that almost 80% in the variation of the
 
 
 
+We can observe that some cluster form based on the region the countries belong to: 
 
+
+![Image of Scree Plot](https://github.com/alecsandruanca/Happiness-Analysis/blob/master/pictures/Rplot01.png)
+
+
+We see that for instance Happiness Score and Family Benefits, Health and Economy are highly correlated. 
+Trust in the Government and Freedom are also correlated. 
+We also see that Happiness Score,Family, Economy, Health are more correlated with the first dimension whereas Freedom, Generosity,Trust in the Government are more correlated with the  second dimension. 
+
+![Image of Scree Plot](https://github.com/alecsandruanca/Happiness-Analysis/blob/master/pictures/Dimensionalitate.PNG)
