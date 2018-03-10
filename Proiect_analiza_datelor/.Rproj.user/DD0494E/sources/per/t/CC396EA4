@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515601164566.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3615256493",
+    "id" : "CC396EA4",
+    "lastKnownWriteTime" : 1515700183,
+    "last_content_update" : 1515700183648,
+    "path" : "~/Proiect_analiza_datelor/PCA.R",
+    "project_path" : "PCA.R",
+    "properties" : {
+        "cursorPosition" : "75,0",
+        "scrollLine" : "62",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

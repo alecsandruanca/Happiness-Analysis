@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515324523057.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1881560194",
+    "id" : "23CC9559",
+    "lastKnownWriteTime" : 1515324846,
+    "last_content_update" : 1515324846947,
+    "path" : "~/Proiect_analiza_datelor/computeIndicators.R",
+    "project_path" : "computeIndicators.R",
+    "properties" : {
+        "cursorPosition" : "2,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

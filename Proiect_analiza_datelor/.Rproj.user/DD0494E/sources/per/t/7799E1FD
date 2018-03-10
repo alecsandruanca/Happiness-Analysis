@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515612045290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "159751119",
+    "id" : "7799E1FD",
+    "lastKnownWriteTime" : 1515617612,
+    "last_content_update" : 1515617612792,
+    "path" : "~/Proiect_analiza_datelor/Plotting_PCA.R",
+    "project_path" : "Plotting_PCA.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
